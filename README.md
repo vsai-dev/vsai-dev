@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venkata Sai</h1>
 
-
 <h4 align="center">💼 Data Engineer | 🛠️ Expert in Spark, SQL, Python | 📊 Building scalable data pipelines and ETL processes | 💡 Passionate about Big Data & Cloud Architecture</h4>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=vsai-dev&show_icons=true&locale=en" alt="vsai-dev" /></p>
@@ -13,7 +12,7 @@
 <p> - 🛠️ Big Data Tools (Hadoop, Kafka) </p>
 <p> - 💾 Databases (NoSQL, Relational) </p>
 
-<h3 align="left">Connect with me:</h3>
+<h5 align="left">Connect with me:</h5>
 <p align="left">
 <a href="https://linkedin.com/in/venkatasai8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkatasai8" height="30" width="40" /></a>
 </p>
