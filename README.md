@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Venkata Sai</h1>
 
 
-<h2 align="center">💼 Data Engineer | 🛠️ Expert in Spark, SQL, Python | 📊 Building scalable data pipelines and ETL processes | 💡 Passionate about Big Data & Cloud Architecture</h3>
+<h4 align="center">💼 Data Engineer | 🛠️ Expert in Spark, SQL, Python | 📊 Building scalable data pipelines and ETL processes | 💡 Passionate about Big Data & Cloud Architecture</h4>
 
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=vsai-dev&show_icons=true&locale=en" alt="vsai-dev" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p> - 🔥 Apache Spark </p>
@@ -19,4 +20,4 @@
 
 <p> <img align="left" src="![Azure Data Engineer Certified](https://img.shields.io/badge/Azure%20Data%20Engineer-Certified-blue?logo=microsoft-azure&logoColor=white)" </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vsai-dev&show_icons=true&locale=en" alt="vsai-dev" /></p>
+
