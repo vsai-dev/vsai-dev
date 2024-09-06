@@ -9,13 +9,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <p> - 🔥 Apache Spark </p>
 <p> - 🐍 Python </p>
-- 🧰 SQL (PostgreSQL, MySQL, SQL Server)
-- ☁️ Cloud Platforms (AWS, Azure, GCP)
-- 🛠️ Big Data Tools (Hadoop, Kafka)
-- 💾 Databases (NoSQL, Relational)
+<p> - 🧰 SQL (PostgreSQL, MySQL, SQL Server) </p>
+<p> - ☁️ Cloud Platforms (AWS, Azure, GCP) </p>
+<p> - 🛠️ Big Data Tools (Hadoop, Kafka) </p>
+<p> - 💾 Databases (NoSQL, Relational) </p>
 
-![Azure Data Engineer Certified](https://img.shields.io/badge/Azure%20Data%20Engineer-Certified-blue?logo=microsoft-azure&logoColor=white)
 
+<p> ![Azure Data Engineer Certified](https://img.shields.io/badge/Azure%20Data%20Engineer-Certified-blue?logo=microsoft-azure&logoColor=white) </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vsai-dev&show_icons=true&locale=en&layout=compact" alt="vsai-dev" /></p>
 
