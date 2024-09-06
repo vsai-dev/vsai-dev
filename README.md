@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Venkata Sai</h1>
 
-<h4 align="center">💼 Data Engineer | 🛠️ Expert in Spark, SQL, Python | 📊 Building scalable data pipelines and ETL processes | 
-  💡 Passionate about Big Data & Cloud Architecture</h4>
+<h4 align="left">I am a passionate Data Engineer with [X years] of experience in building scalable and efficient data pipelines. My expertise lies in data architecture, ETL processes, and cloud-based solutions. I am proficient in working with technologies such as:</h4>
 
 <p> </p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=vsai-dev&show_icons=true&locale=en" alt="vsai-dev" /></p>
